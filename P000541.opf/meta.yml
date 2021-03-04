@@ -1,15 +1,16 @@
-id: opecha:P000541
+id: P000541
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS17345
   title: འཁོར་ལོ་སྡོམ་པའི་དབང་ཆོག་ངག་འདོན་གྱི་རིམ་པ།
-  volume:
+  author: ''
+  volumes:
     394e960569d34c9b9818c36d3c75148a:
       image_group_id: I8LS17353
       title: Volume 1 of 'khor lo sdom pa'i dbang chog ngag 'don gyi rim pa/
       volume_number: 1
       total_pages: 314
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: འཁོར་ལོ་སྡོམ་པའི་དབང་ཆོག་ངག་འདོན་གྱི་རིམ་པ།
   author: ''
